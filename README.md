@@ -30,12 +30,6 @@ My Favourite Programming Languages ![Python](https://img.shields.io/badge/Python
 #### | Thanks to [oh-my-posh](https://ohmyposh.dev/)
 
 
+[![Dhrubajyoti's GitHub Status](https://github-readme-stats.vercel.app/api?username=DhrubajyotiBiswasfounderofDribll&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&border_radius=6px)](https://github.com/dhrubajyotifounderofDSoft/github-readme-stats)
 
-<!---
-dhrubajyotifounderofDSoft/dhrubajyotifounderofDSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![Dhrubajyoti's GitHub Status](https://github-readme-stats.vercel.app/api?username=dhrubajyotifounderofDSoft&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&border_radius=6px)](https://github.com/dhrubajyotifounderofDSoft/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubajyotifounderofDSoft&layout=pie&theme=radical&langs_count=10)](https://github.com/dhrubajyotifounderofDSoft/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhrubajyotiBiswasfounderofDribll&layout=pie&theme=radical&langs_count=10)](https://github.com/dhrubajyotifounderofDSoft/github-readme-stats)
