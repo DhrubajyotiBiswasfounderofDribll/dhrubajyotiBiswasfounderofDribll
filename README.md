@@ -12,7 +12,7 @@
 
 You can follow me on ![Twitter](https://img.shields.io/twitter/follow/Dhrubaj32201910?color=blue&logo=twitter&style=for-the-badge) 
                      ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCRvcazkrS67RdBpaojFWUUA?logo=youtube&logoColor=red&style=for-the-badge)
-                     ![GitHub](https://img.shields.io/github/followers/dhrubajyotifounderofDSoft?logo=github&style=for-the-badge)
+                     ![GitHub](https://img.shields.io/github/followers/DhrubajyotiBiswasfounderofDribll?logo=github&style=for-the-badge)
                      ![Twitch](https://img.shields.io/badge/Twitch-218370?style=for-the-badge&logo=twitch&logoColor=white)
 
                      
