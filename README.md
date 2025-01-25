@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m @DhrubajyotiBiswasfounderofDribll and I am the Founder & CEO of @DSoftofficial </h1>
+<h1> 👋 Hi, I’m @DhrubajyotiBiswasfounderofDribll and I am the Founder & CEO of @Dribll </h1>
 <h2> 👀 I’m interested in Software Engineering and Computer Science</h2>
 <h2> 🌱 I’m currently working on Tilder in DSoft</h2>
 <h2> 📔 I’m learning more about Python, Rust and C++ programming languages. Know a little about JavaScript</h2>
