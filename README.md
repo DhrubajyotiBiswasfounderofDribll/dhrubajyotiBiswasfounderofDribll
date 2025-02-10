@@ -7,7 +7,7 @@
 <h2> 🏢 I have also contributed to Microsoft and VS Code.</h2>
 <h3><q>I Want To Transform Tech Into Life.</q></h3> 
 
-## DSoft Discord Server:~ [<img src="https://github.com/dhrubajyotifounderofDSoft/dhrubajyotifounderofDSoft/assets/108980710/4e2f456d-85c2-4947-b371-4ad395cf08d2">](https://discord.com/invite/rwFb2hbZAK)
+## Dribll Discord Server:~ [<img src="https://github.com/dhrubajyotifounderofDSoft/dhrubajyotifounderofDSoft/assets/108980710/4e2f456d-85c2-4947-b371-4ad395cf08d2">](https://discord.com/invite/M8VtbJDmbF)
 
 
 You can follow me on ![Twitter](https://img.shields.io/twitter/follow/Dhrubaj32201910?color=blue&logo=twitter&style=for-the-badge) 
