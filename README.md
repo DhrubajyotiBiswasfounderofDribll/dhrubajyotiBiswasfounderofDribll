@@ -30,6 +30,7 @@ My Favourite Programming Languages ![Python](https://img.shields.io/badge/Python
 #### | Thanks to [oh-my-posh](https://ohmyposh.dev/)
 
 
-[![Dhrubajyoti's GitHub Status](https://github-readme-stats.vercel.app/api?username=DhrubajyotiBiswasfounderofDribll&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&border_radius=6px)](https://github.com/dhrubajyotifounderofDSoft/github-readme-stats)
+![Dhrubajyoti's GitHub Status](https://github-readme-stats.vercel.app/api?username=DhrubajyotiBiswasfounderofDribll&show_icons=true&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhrubajyotiBiswasfounderofDribll&layout=pie&theme=radical&langs_count=10)](https://github.com/dhrubajyotifounderofDSoft/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhrubajyotiBiswasfounderofDribll&layout=pie&theme=merko&langs_count=20)](https://github.com/dhrubajyotifounderofDSoft/github-readme-stats)
+
