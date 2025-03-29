@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m @DhrubajyotiBiswasfounderofDribll and I am the Founder & CEO of @Dribll </h1>
 <h2> 👀 I’m interested in Software Engineering and Computer Science</h2>
-<h2> 🌱 I’m currently working on Tilder in @Dribll</h2>
+<h2> 🌱 I’m currently working on Tilder in Dribll</h2>
 <h2> 📔 I’m learning more about Python, Java, Rust and C++ programming languages. Know a little about JavaScript & ReactJS</h2>
 <h2> ⚛️ For frontend I've learnt React</h2>
 <h2> 🧩 I like solving puzzles like the Password Game.</h2>
