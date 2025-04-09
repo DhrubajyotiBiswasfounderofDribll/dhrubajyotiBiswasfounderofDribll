@@ -1,4 +1,4 @@
-<center><h1><img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> Hi, I’m @DhrubajyotiBiswasfounderofDribll and I am the Founder & CEO of @Dribll </h1></center>
+<center><h1><img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> Hi, I’m Dhrubajyoti Biswas and Founder & CEO of @Dribll </h1></center>
 <h2> 👀 I’m interested in Software Engineering and Computer Science</h2>
 <h2> 🌱 I’m currently working on Tilder in Dribll</h2>
 <h2> 📔 I’m learning more about Python, Java, Rust and C++ programming languages. Know a little about JavaScript & ReactJS</h2>
